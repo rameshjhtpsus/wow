@@ -1,0 +1,12 @@
+glpat-FAJEwXkoVtj3oesdtCnm
+
+
+git pull
+git status
+
+
+git add <filename> -> git pull . (for all files)
+git commit -m ""
+
+
+git push -u origin master
